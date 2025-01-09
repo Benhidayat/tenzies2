@@ -1,9 +1,10 @@
-
+import Game from "./components/Game"
+import './App.css';
 
 const App = () => {
   return (
     <>
-      hello react!
+      <Game />
     </>
   )
 }
