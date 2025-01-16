@@ -1,0 +1,14 @@
+.die__item {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 2px 0 #00000026;
+    border-radius: 5px;
+    font-size: 1.287rem;
+    font-weight: 700;
+    line-height: 24.07px;
+    color: #2B283A;
+    cursor: pointer;
+    border: none;
+}
